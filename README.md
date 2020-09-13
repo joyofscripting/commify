@@ -37,7 +37,7 @@ If you want to use your set of quote characters and separator/delimiter, commify
 ## Video
 This is a short screen recording about how to use commify:
 
-![http://www.schoolscout24.de/img/commify/commify_video.mov](http://www.schoolscout24.de/img/commify/commify_video_icon.png)
+[![Screen recording](http://www.schoolscout24.de/img/commify/commify_video_icon.png)](http://www.schoolscout24.de/img/commify/commify_video.mov)
 
 ## Why commify was written
 As a data analyst I often need to transform columns of text or numbers from an Excel document or a database tool like DBeaver into a list of quoted, comma-separated list of items for Python.

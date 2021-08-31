@@ -1,5 +1,5 @@
 # commify
-An Applescript that transforms a column of text items into a comma-separated list of text items
+An AppleScript that transforms a column of text items into a comma-separated list of text items
 
 1<br>
 2<br>
